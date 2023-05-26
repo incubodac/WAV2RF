@@ -3,3 +3,4 @@ scipy==1.10.1
 numpy1==0.0.1
 matplotlib==3.7.1
 pydub==0.25.1
+fitparse==1.2.0
